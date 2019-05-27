@@ -48,7 +48,10 @@ namespace CreditApprover.Data.Repository
 
         public TEntity FirstOrDefault(Expression<Func<TEntity, bool>> predicate)
         {
-            throw new NotImplementedException();
+            var t = dbContext.Set<TEntity>().FirstOrDefault();
+
+            return dbContext.Set<TEntity>().FirstOrDefault(predicate);
+            //dbContext.Set<TEntity>().FirstOrDefault(predicate);
         }
 
         public IQueryable<TEntity> GetAll(params Expression<Func<TEntity, object>>[] includeProperties)
@@ -58,5 +61,6 @@ namespace CreditApprover.Data.Repository
             // return includeProperties.Aggregate(query, (current, includeProperty) => current.Include(includeProperty));
             return query.AsQueryable();
         }
+       
     }
 }

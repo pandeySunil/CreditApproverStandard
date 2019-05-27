@@ -9,10 +9,11 @@
 
 namespace Creditapprover.Entites.DbModel
 {
+    using CreditApprover.Data.Entity;
     using System;
     using System.Collections.Generic;
     
-    public partial class Login
+    public partial class Login: IEntityBase
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Login()

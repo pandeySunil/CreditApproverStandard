@@ -10,3 +10,12 @@ C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\obj\Debug\
 C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.csproj.CopyComplete
 C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.dll
 C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.pdb
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.Data\bin\Debug\CreditApprover.Data.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.Data\bin\Debug\CreditApprover.Data.pdb
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.Data\bin\Debug\EntityFramework.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.Data\bin\Debug\EntityFramework.xml
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.csproj.CoreCompileInputs.cache
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.csproj.CopyComplete
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.pdb
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.csprojAssemblyReference.cache

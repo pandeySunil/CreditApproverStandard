@@ -10,3 +10,17 @@ C:\Users\Sunil.Pandey\source\repos\CreditApprover\Creditapprover.Entites\obj\Deb
 C:\Users\Sunil.Pandey\source\repos\CreditApprover\Creditapprover.Entites\obj\Debug\Creditapprover.Entites.csproj.CopyComplete
 C:\Users\Sunil.Pandey\source\repos\CreditApprover\Creditapprover.Entites\obj\Debug\Creditapprover.Entites.dll
 C:\Users\Sunil.Pandey\source\repos\CreditApprover\Creditapprover.Entites\obj\Debug\Creditapprover.Entites.pdb
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\bin\Debug\Creditapprover.Entites.dll.config
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\bin\Debug\Creditapprover.Entites.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\bin\Debug\Creditapprover.Entites.pdb
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\bin\Debug\CreditApprover.Data.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\bin\Debug\EntityFramework.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\bin\Debug\EntityFramework.SqlServer.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\bin\Debug\CreditApprover.Data.pdb
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\bin\Debug\EntityFramework.xml
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\bin\Debug\EntityFramework.SqlServer.xml
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\obj\Debug\CreditApprover.Entites.csprojAssemblyReference.cache
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\obj\Debug\CreditApprover.Entites.csproj.CoreCompileInputs.cache
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\obj\Debug\CreditApprover.Entites.csproj.CopyComplete
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\obj\Debug\Creditapprover.Entites.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\Creditapprover.Entites\obj\Debug\Creditapprover.Entites.pdb

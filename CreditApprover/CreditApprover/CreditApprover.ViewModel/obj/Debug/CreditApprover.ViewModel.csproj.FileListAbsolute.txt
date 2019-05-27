@@ -1,0 +1,14 @@
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\bin\Debug\CreditApprover.ViewModel.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\bin\Debug\CreditApprover.ViewModel.pdb
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\bin\Debug\Creditapprover.Entites.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\bin\Debug\EntityFramework.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\bin\Debug\CreditApprover.Data.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\bin\Debug\Creditapprover.Entites.pdb
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\bin\Debug\Creditapprover.Entites.dll.config
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\bin\Debug\EntityFramework.xml
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\bin\Debug\CreditApprover.Data.pdb
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\obj\Debug\CreditApprover.ViewModel.csprojAssemblyReference.cache
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\obj\Debug\CreditApprover.ViewModel.csproj.CoreCompileInputs.cache
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\obj\Debug\CreditApprover.ViewModel.csproj.CopyComplete
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\obj\Debug\CreditApprover.ViewModel.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover.ViewModel\obj\Debug\CreditApprover.ViewModel.pdb

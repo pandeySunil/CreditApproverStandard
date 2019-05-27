@@ -46,18 +46,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DbFactory\DbFactory.cs" />
+    <Compile Include="DbFactory\IDbFactory.cs" />
     <Compile Include="Entity\IEntityBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\EntityBaseRepository.cs" />
     <Compile Include="Repository\IEntityBaseRepository.cs" />
     <Compile Include="UnitOfWorkImpl\IUnitOfWork.cs" />
     <Compile Include="UnitOfWorkImpl\UnitOfWork.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Creditapprover.Entites\CreditApprover.Entites.csproj">
-      <Project>{6d41ecc2-387d-44c2-81fb-8168cf5afcee}</Project>
-      <Name>CreditApprover.Entites</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

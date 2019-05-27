@@ -52,8 +52,6 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="DataContext\IDataContext.cs" />
-    <Compile Include="DbFactory\DbFactory.cs" />
-    <Compile Include="DbFactory\IDbFactory.cs" />
     <Compile Include="DbModel\CreditApproverEF.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -84,7 +82,9 @@
     </EntityDeploy>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.Config" />
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="DbModel\CreditApproverEF.edmx.diagram">
       <DependentUpon>CreditApproverEF.edmx</DependentUpon>
     </None>
@@ -105,6 +105,11 @@
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\CreditApprover.Data\CreditApprover.Data.csproj">
+      <Project>{625a6fee-e66a-4c93-8d7c-f20d7660d059}</Project>
+      <Name>CreditApprover.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
