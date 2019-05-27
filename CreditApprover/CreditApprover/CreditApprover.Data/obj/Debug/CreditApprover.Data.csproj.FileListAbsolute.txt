@@ -1,0 +1,12 @@
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\bin\Debug\CreditApprover.Data.dll
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\bin\Debug\CreditApprover.Data.pdb
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\bin\Debug\Creditapprover.Entites.dll
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\bin\Debug\Creditapprover.Entites.pdb
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\bin\Debug\Creditapprover.Entites.dll.config
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.csprojAssemblyReference.cache
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.csproj.CopyComplete
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.dll
+C:\Users\Sunil.Pandey\source\repos\CreditApprover\CreditApprover.Data\obj\Debug\CreditApprover.Data.pdb
