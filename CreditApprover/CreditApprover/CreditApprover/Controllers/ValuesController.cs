@@ -12,7 +12,7 @@ using CreditApprover.Authentication;
 
 namespace CreditApprover.Controllers
 {
-    [BasicAuthentication]
+
     public class ValuesController : ApiController
     {
         public readonly IUnitOfWork unitOfWork;
@@ -33,10 +33,10 @@ namespace CreditApprover.Controllers
         }
 
         // POST api/values
-        public Login Post(Login User)
+        public IHttpActionResult Post(Login User)
         {
             var t = userService.Authenticate(User);
-            return new Login();
+            return Ok<string>(t.Item2);
             
         }
 

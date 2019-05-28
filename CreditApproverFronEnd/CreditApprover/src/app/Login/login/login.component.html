@@ -1,1 +1,71 @@
-<h1></h1>
+
+<div class="login-bg login-container" >
+    <div class="login-box">
+      <div class="login-body">
+          <div class="login-logo">
+              <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.189 30.149">
+                <path id="building" d="M28.59,29.109V25.863a2.12,2.12,0,0,0,1.04-1.952c0-1.148-.7-2.079-1.559-2.079s-1.559.931-1.559,2.079a2.12,2.12,0,0,0,1.04,1.952v3.246H23.911V13.316l-3.119-1.559v2.8h1.559v1.04H20.793v2.079h1.559v1.04H20.793v2.079h1.559v1.04H20.793v2.079h1.559v1.04H20.793V27.03h1.559v1.04H20.793v1.04h-1.04V8.188L13.515,6.407v1.91h3.639v1.04H13.515v2.079h3.639v1.04H13.515v2.079h3.639v1.04H13.515v2.079h3.639v1.04H13.515v2.079h3.639v1.04H13.515v2.079h3.639v1.04H13.515V27.03h3.639v1.04H13.515v1.04h-1.04V0H3.119V2.079H7.8v1.04H3.119V5.2H7.8v1.04H3.119V8.316H7.8v1.04H3.119v2.079H7.8v1.04H3.119v2.079H7.8v1.04H3.119v2.079H7.8v1.04H3.119v2.079H7.8v1.04H3.119v2.079H7.8v1.04H3.119V27.03H7.8v1.04H3.119v1.04H0v1.04H31.189v-1.04Zm0,0" transform="translate(0 0.001)" fill="#fff"/>
+              </svg> -->
+
+              <img src="assets/images/logo_new_small.svg" width="80" alt=""/> 
+
+          </div>
+
+
+          
+         
+
+
+
+          <div class="login-content">
+              <h3>Login to</h3>
+              <h4>Credit Approver</h4>					
+          </div>
+          
+          <div class="login-form">
+              <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+                <div class="form-group">
+                  <input type="number" [ngClass]="{ 'is-invalid': submitted && f.UserName.errors }" formControlName="MobileNo" required class="form-control"  placeholder="Email Id">
+                  <div *ngIf="submitted && f.UserName.errors" class="invalid-feedback">
+                    <div *ngIf="f.UserName.errors.required" class="register-error">User Name is required</div>
+                </div>
+                </div>
+                <div class="form-group">
+                  <input type="password" [ngClass]="{ 'is-invalid': submitted && f.Password.errors }" formControlName="Password" class="form-control" placeholder="Password">
+                  <div *ngIf="submitted && f.Password.errors" class="invalid-feedback">
+                    <div *ngIf="f.Password.errors.required" class="register-error">Password is required</div>
+                </div>
+                </div>
+              
+                  <div class="staylognin">
+                      <div class="custom-control custom-checkbox">
+                      <input type="checkbox" class="custom-control-input" id="customCheck" name="example1">
+                      <label class="custom-control-label" for="customCheck">Stay Login</label>
+                    </div>
+                  </div>
+                  
+                <div class="text-center"><button type="submit" class="btn btn-secondary login-btn">Login</button></div>
+                  
+                  <div class="forgot-password"><a href="#" (click)="workInProgressMessage()">Forgot Password?</a></div>
+                  
+              </form>
+          </div>
+          
+              
+      </div>  
+      <div class="login-footer">
+          Don't have an account? <a routerLink="/register">Sign Up</a>.
+      </div>
+  </div>
+</div>
+
+<router-outlet></router-outlet>
+<style>
+    .login-bg.login-container {
+    width: 400px;
+    margin: 0 auto;
+    background: palegreen;
+    padding: 40px;
+    margin-top: 50px;
+}
+</style>

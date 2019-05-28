@@ -207,3 +207,6 @@ D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditA
 D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover\obj\Debug\CreditApprover.pdb
 D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover\bin\CreditApprover.Authentication.dll.config
 D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover\bin\CreditApprover.Service.dll.config
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover\bin\System.Web.Cors.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover\bin\System.Web.Http.Cors.dll
+D:\DayUsers\Sunil Pandey\Practice\GitRepos\CreditApprover\CreditApprover\CreditApprover\CreditApprover\bin\System.Web.Http.Cors.xml
